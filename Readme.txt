@@ -1,6 +1,12 @@
 Purpose: The purpose of this software is to  manipulate records of patients and employees from a hospital.
 Developer & Development Date: Iqra McIlveen - March 6, 2018
 
+The learning purpose:
+	Use of structures and unions.
+	Declaring variables as sub elements using bit fields.
+	Formatting output in C.
+	Passing addresses by reference.
+
 Software organization: 
 	There are 4 .c files consisting of:
 		- employee.c
